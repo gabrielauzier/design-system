@@ -9,7 +9,8 @@
     "dev": "storybook dev -p 6006",
     "build": "storybook build",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "deploy-storybook": "storybook-to-ghpages"
   },
   "dependencies": {
     "react": "^18.2.0",
@@ -27,6 +28,7 @@
     "@storybook/blocks": "^7.6.10",
     "@storybook/react": "^7.6.10",
     "@storybook/react-vite": "^7.6.10",
+    "@storybook/storybook-deployer": "^2.8.16",
     "@storybook/test": "^7.6.10",
     "@types/react": "^18.2.43",
     "@types/react-dom": "^18.2.17",
