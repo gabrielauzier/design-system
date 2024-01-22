@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/tokens",
+  "name": "@gvastyle-ui/tokens",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -14,8 +14,8 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/ts-config": "*",
+    "@gvastyle-ui/eslint-config": "*",
+    "@gvastyle-ui/ts-config": "*",
     "tsup": "^8.0.1",
     "typescript": "^5.3.3"
   }

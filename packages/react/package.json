@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/react",
+  "name": "@gvastyle-ui/react",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -14,9 +14,9 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@gvastyle-ui/eslint-config": "*",
+    "@gvastyle-ui/tokens": "*",
+    "@gvastyle-ui/ts-config": "*",
     "@types/react": "^18.2.48",
     "@types/react-dom": "^18.2.18",
     "react": "^18.2.0",
