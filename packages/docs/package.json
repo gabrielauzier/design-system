@@ -17,9 +17,9 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
+    "@gvastyle-ui/eslint-config": "*",
+    "@gvastyle-ui/react": "*",
+    "@gvastyle-ui/tokens": "*",
     "@storybook/addon-a11y": "^7.6.10",
     "@storybook/addon-essentials": "^7.6.10",
     "@storybook/addon-interactions": "^7.6.10",
