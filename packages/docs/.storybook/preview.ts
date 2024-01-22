@@ -13,6 +13,9 @@ const preview: Preview = {
     backgrounds: {
       default: 'dark',
     },
+    docs: {
+      theme: themes.dark
+    }
   },
 };
 
