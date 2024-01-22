@@ -3,9 +3,11 @@
   "workspaces": [
     "packages/*"
   ],
-  "dependencies": {
-    "polished": "^4.2.2",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+  "scripts": {
+    "dev": "turbo run dev --parallel",
+    "build": "turbo run build"
+  },
+  "devDependencies": {
+    "turbo": "^1.5.5"
   }
 }
