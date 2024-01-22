@@ -6,7 +6,14 @@ export default {
   component: Avatar,
   args: {
     src: 'https://github.com/gabrielauzier.png',
-    alt: 'Diego Fernandes',
+    alt: 'Gabriel Auzier',
+  },
+  argTypes: {
+    src: {
+      control: {
+        type: 'text',
+      },
+    },
   },
 } as Meta<AvatarProps>
 
